@@ -1,17 +1,14 @@
-<h3 align="center">Türkiye'den tutkulu ve titiz bir geliştirici.</h3>
+<h3 align="center">RABELS.COM.TR - M. BATUHAN ACAR</h3>
+
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lwurr&theme=green&column=3" alt="lwurr" />
-  </a>
+- Şu anda üzerinde çalışıyorum 👨‍💻 <a href="https://github.com/lwurr/grupbul">grupbul</a>  
+- Bana sorabilirsiniz 💬 <b>PHP, NODE, REACT, NEXT, HTML, WORDPRESS, PYTHON</b>  
+- 📫 Bana ulaşın: <b>iletisim@rabels.com.tr</b>
 </p>
 
-- Şu anda üzerinde çalışıyorum 👨‍💻 [grupbul](https://github.com/lwurr/grupbul)  
-- Bana sorabilirsiniz 💬 **PHP, NODE, REACT, NEXT, HTML, WORDPRESS, PYTHON**  
-- 📫 Bana ulaşın: **iletisim@rabels.com.tr**  
-
-<h3 align="left">Benimle iletişime geçin:</h3>
-<p align="left">
+<h3 align="center">Benimle iletişime geçin</h3>
+<p align="center">
   <a href="https://instagram.com/rabelscomtr" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30"/>
   </a>
@@ -20,8 +17,8 @@
   </a>
 </p>
 
-<h3 align="left">Diller ve Araçlar:</h3>
-<p align="left">
+<h3 align="center">Diller ve Araçlar</h3>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -33,4 +30,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lwurr&show_icons=true&locale=tr&layout=compact&theme=radical" alt="lwurr"/>
 </p>
