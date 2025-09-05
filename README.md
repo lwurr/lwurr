@@ -1,8 +1,8 @@
-<h3 align="center">Hindistan'dan tutkulu bir ön uç geliştiricisi</h3>
+<h3 align="center">Türkiye'den tutkulu ve titiz bir geliştirici.</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lwurr&theme=green&column=7" alt="lwurr" />
+    <img src="https://github-profile-trophy.vercel.app/?username=lwurr&theme=green&column=3" alt="lwurr" />
   </a>
 </p>
 
@@ -33,8 +33,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lwurr&show_icons=true&locale=tr&layout=compact&theme=radical" alt="lwurr"/>
 </p>
