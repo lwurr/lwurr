@@ -35,6 +35,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lwurr&show_icons=true&locale=tr&layout=compact&theme=radical" alt="lwurr"/>
-</p>
