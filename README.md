@@ -2,12 +2,15 @@
 
 
 <p align="center">
-  <span>👨‍💻 Şu anda üzerinde çalışıyorum: <a href="https://github.com/lwurr/grupbul">grupbul</a></span>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <span>💬 Bana sorabilirsiniz: <b>PHP, NODE, REACT, NEXT, HTML, WORDPRESS, PYTHON</b></span>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <span>📫 Bana ulaşın: <b>iletisim@rabels.com.tr</b></span>
+  <table align="center">
+    <tr>
+      <td>👨‍💻 Şu anda üzerinde çalışıyorum: <a href="https://github.com/lwurr/grupbul">grupbul</a></td>
+      <td>💬 Bana sorabilirsiniz: <b>PHP, NODE, REACT, NEXT, HTML, WORDPRESS, PYTHON</b></td>
+      <td>📫 Bana ulaşın: <b>iletisim@rabels.com.tr</b></td>
+    </tr>
+  </table>
 </p>
+
 
 
 <h3 align="center">Benimle iletişime geçin</h3>
